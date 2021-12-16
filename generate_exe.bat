@@ -1,0 +1,1 @@
+pyinstaller -F -i "Icon.ico" ReadAtomFromRedMine.py
