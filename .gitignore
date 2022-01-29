@@ -1,4 +1,6 @@
 # created by virtualenv automatically
+20*
+*.cfg
 *.css
 *.docx
 *.html
